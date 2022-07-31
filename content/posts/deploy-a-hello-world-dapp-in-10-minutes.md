@@ -23,7 +23,7 @@ This simple `Hello` dapp is composed of two [canister smart contracts](https:
 
 Or via the dapp in a browser, a pop-up window will appear with the message: `Hello, Everyone!`
 
-<img src="/img/frontend-result.png" alt="frontend-result">
+![](/content/images/frontend-result-1.png)
 
 Note that the "Hello World" dapp consists of backend code written in [Motoko](https://internetcomputer.org/docs/current/developer-docs/build/languages/motoko/), a programming language specifically designed for interacting with the IC, and a simple webpack-based frontend.
 
